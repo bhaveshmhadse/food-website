@@ -1,0 +1,58 @@
+button {
+  padding: 0.1px 5px;
+}
+
+.button1 {
+  padding: 0.00001px 16px;
+  background-color: white;
+  border-color: transparent;
+}
+
+.button2 {
+  min-width: 170px;
+  min-height: 170px;
+  max-width: 170px;
+  max-height: 170px;
+  /* padding: 70px 70px; */
+}
+
+.button3 {
+  background-color: bisque;
+  font-weight: bold;
+}
+
+body {
+  color: antiquewhite;
+  background-image: url('Backgroundimage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.minus {
+  padding: 0.1px 5px;
+  background-color: greenyellow;
+  border-style: hidden;
+  color: black;
+}
+.plus {
+  padding: 0.1px 5px;
+  background-color: darkorange;
+  border-style: hidden;
+  color: black;
+}
+
+.cart {
+  padding: 5px 12px;
+  background-color: rgb(238, 91, 38);
+}
+.submit {
+  font-style: italic;
+  font-weight: 600;
+  padding: 4px 10px;
+  background-color: rgb(37, 247, 142);
+  color: black;
+  position: relative;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-style: hidden;
+  border-radius: 40px;
+}
